@@ -1,3 +1,27 @@
+#------------------------------------
+# Script Information
+#------------------------------------
+# Purpose: Calculate greenness of the same regions from multiple photographs
+# Creator: Drew Duckett, 7 June 2017
+# Contact: dduckett@mortonarb.org
+#------------------------------------
+
+#------------------------------------
+# Description
+#------------------------------------
+# Function 
+
+# Input:
+# 1. 
+
+# Output:
+# 1. 
+
+#------------------------------------
+# Workflow Overview
+#------------------------------------
+# 1) 
+#------------------------------------
 
 
 
